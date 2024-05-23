@@ -1,3 +1,2 @@
 PORT=5000
 MONGO_URL="mongodb+srv://kumarsanyam:Chat100@cluster0.122ee7q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-ORIGIN="http://localhost:3000"
